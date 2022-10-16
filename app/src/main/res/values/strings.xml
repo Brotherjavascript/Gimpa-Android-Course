@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gimpa Clinic App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="student_id">Student ID</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="login">Login</string>
+    <string name="consult">CONSULT DOCTOR</string>
+</resources>
